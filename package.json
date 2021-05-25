@@ -1,0 +1,19 @@
+{
+  "name": "awesome-js-projects--to-typescript",
+  "version": "1.0.0",
+  "description": "Converting most famous js projects to typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amedi-stephen/awesome-js-projects--to-typescript.git"
+  },
+  "author": "stephen amedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amedi-stephen/awesome-js-projects--to-typescript/issues"
+  },
+  "homepage": "https://github.com/amedi-stephen/awesome-js-projects--to-typescript#readme"
+}
